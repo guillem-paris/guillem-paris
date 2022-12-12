@@ -48,7 +48,7 @@ I develop software to make life easier for companies. I am passionate about prog
 
 <p align="center">
 <a href="https://www.guillemparis.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.guillemparis.com-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/guillem-paris/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@guillemparis-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/guillem-paris/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@guillem-paris-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/17950230/guillem-par%c3%ads-samper" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Guillem%20Par%C3%ADs%20Samper-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:hola@guillemparis.com"><img alt="Email" src="https://img.shields.io/badge/Email-hola@guillemparis.com-blue?style=flat&logo=gmail"></a>
 <img src="https://komarev.com/ghpvc/?username=guillemparissamper" alt="guillemparissamper" />
