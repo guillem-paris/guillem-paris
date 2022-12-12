@@ -42,7 +42,7 @@ I develop software to make life easier for companies. I am passionate about prog
 
 ### ⚡ Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillemparissamper&title_color&show_icons=true&count_private=true)](https://github.com/guillemparissamper)
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillem-paris&title_color&show_icons=true&count_private=true)](https://github.com/guillem-paris)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -54,4 +54,4 @@ I develop software to make life easier for companies. I am passionate about prog
 <img src="https://komarev.com/ghpvc/?username=guillemparissamper" alt="guillemparissamper" />
 </p>
 
-⭐️ From [@guillemparissamper](https://github.com/guillem-paris)
+⭐️ From [@guillem-paris](https://github.com/guillem-paris)
